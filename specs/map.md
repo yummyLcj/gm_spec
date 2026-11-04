@@ -27,6 +27,7 @@ meta.md       规约的规约
 | ID | 文件 | 摘要 |
 | --- | --- | --- |
 | [DR-000](decisions/000-spec-structure-format.md) | 000-spec-structure-format.md | 规约结构、格式和命名约定 |
+| [DR-001](decisions/001-video-effective-watching.md) | 001-video-effective-watching.md | 视频有效观看的判定、心跳和统计决策 |
 
 ## 规约包
 
@@ -34,3 +35,4 @@ meta.md       规约的规约
 | --- | --- |
 | [git.md](packages/git.md) | 提交信息格式和 AI 共同作者 trailers |
 | [licensing.md](packages/licensing.md) | SPDX 头要求与验证检查 |
+| [video-watching.md](packages/video-watching.md) | 视频有效观看状态、会话、心跳、统计和异常恢复 |
